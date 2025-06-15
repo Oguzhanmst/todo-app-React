@@ -18,7 +18,7 @@ Bu proje, React ile geliştirilmiş kapsamlı bir Todo uygulamasıdır. Kullanı
 
 ## 📸 Ekran Görüntüleri
 
-![Todo Uygulaması Ekran Görüntüsü](./assets/images/todoScreen.png)
+![Todo Uygulaması Ekran Görüntüsü](tasks-app/src/assets/images/todoScreen.png)
 
 ## 🔧 Kurulum
 
