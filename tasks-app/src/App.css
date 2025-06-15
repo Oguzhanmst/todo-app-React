@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+body {
+  background-color: #171717;
+  font-family: "Inter", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+/* Navbar Custom CSS  */
+
+.search-input::placeholder {
+  color: #717171 !important;
+}
+
+.listItem {
+  padding-right: 10px;
+  overflow-y: auto;
+}
+
+.listItem::-webkit-scrollbar {
+  width: 6px;
+}
+
+.listItem::-webkit-scrollbar-track {
+  background: #1e1e1e;
+}
+
+.listItem::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 10px;
+}
