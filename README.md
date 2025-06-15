@@ -14,7 +14,7 @@ Bu proje, React ile geliştirilmiş kapsamlı bir Todo uygulamasıdır. Kullanı
 
 - React
 - JavaScript (ES6+)
-- CSS / Tailwind (kullandıysan belirt)
+- CSS / Tailwind
 
 ## 📸 Ekran Görüntüleri
 
